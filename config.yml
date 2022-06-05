@@ -4,7 +4,7 @@ languageCode:
   - zh-TW
 title: 王冠翔
 theme: "PaperMod"
-paginate: 3
+
 params:
   homeInfoParams:
     Title: Hello ,I'm Peter 
