@@ -1,5 +1,5 @@
 ---
-title: 卡片盒筆記 (Readwise)
+title: 卡片盒筆記 
 tags:
 categories:
 date: 2022-05-15
