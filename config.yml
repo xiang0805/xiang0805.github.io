@@ -2,13 +2,13 @@ baseURL: https://xiang0805.github.io/
 languageCode: 
   - en-us
   - zh-TW
-title: 王冠翔
+title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 params:
   homeInfoParams:
-    Title: Hello ,I'm Peter 
-    Content: 文章小天地
+    Title: 哈囉,我是王冠翔 
+    Content: 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。 喜歡烹飪、閱讀、運動、走訪大自然。
   socialIcons: # optional
     - name: "facebook"
       url: "https://www.facebook.com/profile.php?id=100000716446411"
