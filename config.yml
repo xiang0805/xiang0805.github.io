@@ -15,10 +15,10 @@ params:
     - name: "instagram"
       url: "https://www.instagram.com/guansiang_wang/"
   profileMode:
-        enabled: true
+        enabled: false
         title: "強人所男的實驗室" # optional default will be site title
         subtitle: "透過運動改善關節疼痛!"
-        imageUrl: "![](https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg)" # optional
+        imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
         imageTitle: "<title of image as alt>" # optional
         imageWidth: 120 # custom size
         imageHeight: 120 # custom size
