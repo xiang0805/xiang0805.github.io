@@ -7,7 +7,7 @@ theme: "PaperMod"
 paginate: 6
 params:
   homeInfoParams:
-    Title: 哈囉,我是王冠翔 wave
+    Title: 哈囉,我是王冠翔 
     Content: 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。 喜歡烹飪、閱讀、運動、走訪大自然。
   socialIcons: # optional
     - name: "facebook"
