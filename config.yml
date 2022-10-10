@@ -16,7 +16,7 @@ params:
     - name: "instagram"
       url: "https://www.instagram.com/guansiang_wang/"
     - name: "LinkedIn"
-      url: "www.linkedin.com/in/guansiang-wang"
+      url: "https://www.linkedin.com/in/guansiang-wang"
   profileMode:
         enabled: false
         title: "強人所男的實驗室" # optional default will be site title
