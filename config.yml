@@ -5,6 +5,9 @@ languageCode:
 title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
+
+googleAnalytics: G-F4NNSZ7M7K
+
 params:
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
@@ -40,7 +43,7 @@ params:
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
-  googleAnalytics: G-F4NNSZ7M7K
+  
 
 outputs:
   home:
