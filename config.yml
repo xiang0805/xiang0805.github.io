@@ -6,7 +6,7 @@ title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 
-googleAnalyticsID: G-F4NNSZ7M7K
+
 
 params:
   homeInfoParams:
@@ -43,6 +43,7 @@ params:
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
+  googleAnalyticsID: "G-F4NNSZ7M7K"
   
 
 outputs:
