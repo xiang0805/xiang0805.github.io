@@ -6,7 +6,7 @@ title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 
-googleAnalytics: G-F4NNSZ7M7K
+googleAnalyticsID: "G-F4NNSZ7M7K"
 
 params:
   homeInfoParams:
