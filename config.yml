@@ -6,9 +6,10 @@ title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 
-
+googleAnalytics:: G-F4NNSZ7M7K
 
 params:
+  env: production
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
     Content: 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。  喜歡烹飪、閱讀、運動、走訪大自然。  使命-透過運動改善關節疼痛!
@@ -43,7 +44,7 @@ params:
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
-  google_analytics: G-F4NNSZ7M7K
+
   
 
 outputs:
