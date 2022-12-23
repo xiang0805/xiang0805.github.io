@@ -12,8 +12,10 @@ params:
   env: production
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
-    Content: 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。  喜歡烹飪、閱讀、運動、走訪大自然。  使命-透過運動改善關節疼痛!
-
+    Content: >
+      - 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。    
+      - 喜歡閱讀、運動、走訪大自然。
+      - 使命-透過運動改善關節疼痛!
   socialIcons: # optional
     - name: "facebook"
       url: "https://www.facebook.com/profile.php?id=100000716446411"
@@ -21,19 +23,21 @@ params:
       url: "https://www.instagram.com/guansiang_wang/"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/guansiang-wang"
+    - name: "email"
+      url: "mailto:guansiang.wang@gmail.com"
   profileMode:
         enabled: false
         title: "強人所男的實驗室" # optional default will be site title
         subtitle: "透過運動改善關節疼痛!"
-        imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
-        imageTitle: "<title of image as alt>" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        buttons:
-            - name: Archive
-              url: "/archive"
-            - name: Github
-              url: "https://github.com/"  
+        #imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
+        #imageTitle: "<title of image as alt>" # optional
+        #imageWidth: 120 # custom size
+        #imageHeight: 120 # custom size
+        #buttons:
+         #   - name: Archive
+          #    url: "/archive"
+           # - name: Github
+            #  url: "https://github.com/"  
   
   ShowShareButtons: false
   ShowReadingTime: true
@@ -60,7 +64,7 @@ outputs:
 menu:
   main:
     - identifier: categories
-      name: 類別
+      name: 分類
       url: /categories/
       weight: 10
     - identifier: tags
