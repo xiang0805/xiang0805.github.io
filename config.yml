@@ -6,7 +6,7 @@ title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 
-googleAnalytics:: G-F4NNSZ7M7K
+googleAnalytics: G-F4NNSZ7M7K
 
 params:
   env: production
@@ -60,18 +60,18 @@ outputs:
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: 類別
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: 關鍵字
       url: /tags/
       weight: 20
     - identifier: search
-      name: Search
+      name: 搜尋
       url: /search/
       weight: 20
     - identifier: archive
-      name: Archive
+      name: 每月精選
       url: /archives/
       weight: 20
