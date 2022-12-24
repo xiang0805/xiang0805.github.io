@@ -9,8 +9,6 @@ paginate: 6
 googleAnalytics: G-F4NNSZ7M7K
 
 params:
-  busuanzi:
-        enable: true
   env: production
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
@@ -27,6 +25,8 @@ params:
       url: "https://www.linkedin.com/in/guansiang-wang"
     - name: "email"
       url: "mailto:guansiang.wang@gmail.com"
+  busuanzi:
+        enabled: true
   profileMode:
         enabled: false
         title: "強人所男的實驗室" # optional default will be site title
