@@ -11,7 +11,7 @@ googleAnalytics: G-F4NNSZ7M7K
 params:
   env: production
   busuanzi:
-        enabled: true
+        enable: true
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
     Content: >
