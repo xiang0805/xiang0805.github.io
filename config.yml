@@ -41,7 +41,10 @@ params:
           #    url: "/archive"
            # - name: Github
             #  url: "https://github.com/"  
-  
+  sitemap:
+    changefreq: monthly
+    filename: sitemap.xml
+    priority: 0.5
   ShowShareButtons: false
   ShowReadingTime: true
   ShowToc: true
