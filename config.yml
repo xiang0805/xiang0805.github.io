@@ -6,10 +6,11 @@ title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
 
-googleAnalytics: "G-XSDK72PYV4"
+
 
 params:
   env: production
+  googleAnalytics: "G-XSDK72PYV4"
   busuanzi:
         enable: true
   homeInfoParams:
