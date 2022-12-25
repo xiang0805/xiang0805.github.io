@@ -12,7 +12,7 @@ params:
   env: production
   googleAnalyticsID: "G-XSDK72PYV4"
   busuanzi:
-        enable: true
+        enable: false
   homeInfoParams:
     Title: 哈囉,我是王冠翔 
     Content: >
