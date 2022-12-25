@@ -11,6 +11,7 @@ paginate: 6
 params:
   env: production
   googleAnalyticsID: "G-XSDK72PYV4"
+  googleAnalytics: "G-XSDK72PYV4"
   busuanzi:
         enable: false
   homeInfoParams:
