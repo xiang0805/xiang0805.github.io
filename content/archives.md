@@ -1,5 +1,5 @@
 ---
-title: "每月精選"
+title: "Archives"
 layout: "archives"
 url: "/archives/"
 summary: archives
