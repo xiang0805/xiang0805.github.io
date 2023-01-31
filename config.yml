@@ -71,9 +71,9 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
-      name: 分類
-      url: /categories/
+    - identifier: about-me
+      name: 關於我
+      url: /about-me/
       weight: 10
     - identifier: tags
       name: 關鍵字
