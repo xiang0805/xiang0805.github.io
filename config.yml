@@ -79,9 +79,9 @@ menu:
       name: 關鍵字
       url: /tags/
       weight: 20
-    - identifier: search
-      name: 搜尋
-      url: /search/
+    - identifier: reference
+      name: 疼痛轉介
+      url: /reference/
       weight: 20
     - identifier: archive
       name: 每月精選
