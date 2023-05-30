@@ -1,6 +1,6 @@
 baseURL: https://xiang0805.github.io/
 languageCode: 
-  - zh-TW
+  - "zh-tw"
 title: 強人所男的實驗室
 theme: "PaperMod"
 paginate: 6
