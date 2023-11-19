@@ -30,8 +30,8 @@ params:
   
   profileMode:
         enabled: false
-        title: "強人所男的實驗室" # optional default will be site title
-        subtitle: "透過運動改善關節疼痛!"
+        title: # optional default will be site title
+        subtitle: 
         #imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
         #imageTitle: "<title of image as alt>" # optional
         #imageWidth: 120 # custom size
@@ -49,6 +49,7 @@ params:
   ShowReadingTime: true
   ShowToc: true
   TocOpen: true
+  DateFormat: "January 2, 2006"
   author: "王冠翔"
   contact: "guansiang.wang@gmail.com"
   feedlinks: true
