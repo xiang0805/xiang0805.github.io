@@ -1,6 +1,6 @@
 baseURL: https://xiang0805.github.io/
 languageCode: zh-tw
-title: 強人所男的實驗室
+title: Peter的運動保健教室
 theme: "PaperMod"
 paginate: 6
 
@@ -13,7 +13,7 @@ params:
   busuanzi:
         enable: false
   homeInfoParams:
-    Title: 哈囉,我是王冠翔 
+    Title: 哈囉,我是王冠翔教練
     Content: >
       - 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。    
       - 喜歡閱讀、運動、走訪大自然。
