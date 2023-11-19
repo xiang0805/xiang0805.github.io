@@ -1,17 +1,20 @@
 ---
 title: "About Me"
-date: 2023-01-31
-draft: false
+comments: false
+ShowToc: false
+
 ---
+![](https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/202311191756916-self.jpg)
 
 ## 肌力與體能教練
 
-我從事體能訓練已有十年經驗，見過許多人深受慢性疼痛所苦。  
-因此我與具有運動醫學經驗的物理治療師和醫生合作，透過不同專業間的配合，協助患者改善問題。  
-我的專長包括肌肉釋放技術、矯正練習和運動評估。  
-我也對編程、策略規劃和公開演講感興趣。
+- **肌肉發力與強化** : 為肌肉無力的人提供高效訓練，快速找到發力感覺，顯著提升肌力。
+- **跳躍能力提升** : 幫助想提高垂直跳躍高度的人，有效增強跳躍能力。
+- **運動傷害預防** : 針對專項運動容易受傷的人，教授正確使用肌肉的方法，降低受傷風險。
+- **關節活動優化** : 協助關節活動不順暢的人，學習正確的關節移動順序，減輕關節不適。
 
-"治療疼痛除了使用藥物以及手術，動作控制訓練也是不可或缺的一環"
+
+>**訓練是認識自我的一段旅程，教練則是這段路上的引路人。**
 
 
 ## 學歷
@@ -20,22 +23,18 @@ draft: false
 
 ## 證照
 
-- ACSM-CPT English version (2020)
-- CTSSN運動營養專業認證 (2019)
+- ACSM 美國運動醫學會-私人教練 (2020)
+- CTSSN 運動營養專業認證 (2019)
 - 中華民國運動教練學會-肌力與體能教練 (2016)
 - 初級救護技術員 (2014)
 
 ## 工作經歷
 
-Apr. 2018 - Present: 體能教練 & 策略長 at WORKINLAB - Training & Conditioning (workin-lab.com)
-
-Oct. 2020 - Present: 樂齡指導員 at 中華民國紅十字會
-
-Feb. 2021 - Present: 合作教練 at 樞適物理治療所 (centralxphysio.com)
-
-Feb. 2016 - Mar. 2018: 體能教練 at Infinity Physical Education Studio
-
-Jul. 2013 - Jul. 2014: 實習生 at 開動運動管理顧問有限公司
+* 2018/04 - 現在: 體能教練 & 策略長 at [WORKINLAB - Training & Conditioning](https://workin-lab.com/)
+* 2020/10 - 現在 : 銀髮族團課老師 at 中華民國紅十字會
+* 2021/02 - 現在 : 合作教練 at [樞適物理治療所](https://www.centralxphysio.com)
+* 2016/02 - 2018/03 : 肌力與體能教練 at Infinity Physical Education Studio
+* 2013/07  - 2014/07 : 實習生 at 開動運動管理顧問有限公司
 
 ## 研習課程
 
@@ -52,9 +51,11 @@ Jul. 2013 - Jul. 2014: 實習生 at 開動運動管理顧問有限公司
 
 ## 興趣
 
-- YMCA International Youth Symposium (2013)
-- 亞洲青年論壇 (2020)
-- 競技飛盤
-- 研究提升生產力的工具
+- 灌籃挑戰者
+- 單車通勤者
+- 競技飛盤愛好者
+- 研究生產力的工具
 - 網站架設與編程
 - 每年閱讀40本書
+- 亞洲青年論壇 (2020)
+- YMCA International Youth Symposium (2013)
