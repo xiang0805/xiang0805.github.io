@@ -23,6 +23,7 @@ ShowToc: false
 
 ## 證照
 
+- NASM 美國國家運動醫學學會-運動矯正專家 (2024)
 - ACSM 美國運動醫學會-私人教練 (2020)
 - CTSSN 運動營養專業認證 (2019)
 - 中華民國運動教練學會-肌力與體能教練 (2016)
@@ -48,14 +49,15 @@ ShowToc: false
 - Institute of Human Performance 功能性訓練 (2021)
 - Gray Institute: Certification in Applied Functional Science (2022)
 - SFMA Level 1 (2022)
-
+- Muscle Energy Techniques (2023)
+- Reflexive Performance Reflex Level 1 (2024)
+- PRI-Myokinematic Restoration (2024)
+- PRI-Postural Respiration (2024)
+- PRI-Pelvis Restoration (2024)
 ## 興趣
 
 - 灌籃挑戰者
 - 單車通勤者
-- 競技飛盤愛好者
-- 研究生產力的工具
-- 網站架設與編程
+- 排球初新者
+- 善用數位工具的生活駭客
 - 每年閱讀40本書
-- 亞洲青年論壇 (2020)
-- YMCA International Youth Symposium (2013)
