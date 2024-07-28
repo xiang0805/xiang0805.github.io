@@ -1,0 +1,3 @@
+{{ $videoID := .Get 0 }}
+{{ $startTime := .Get 1 }}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ $videoID }}?start={{ $startTime }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
