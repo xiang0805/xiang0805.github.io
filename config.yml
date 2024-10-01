@@ -4,14 +4,12 @@ title: Peter的運動保健教室
 theme: "PaperMod"
 paginate: 6
 
-
-
 params:
   env: production
   googleAnalyticsID: "G-XSDK72PYV4"
   GoogleAnalytics: "G-XSDK72PYV4"
   busuanzi:
-        enable: false
+    enable: false
   homeInfoParams:
     Title: 哈囉,我是王冠翔教練
     Content: >
@@ -27,20 +25,20 @@ params:
       url: "https://www.linkedin.com/in/guansiang-wang"
     - name: "email"
       url: "mailto:guansiang.wang@gmail.com"
-  
+
   profileMode:
-        enabled: false
-        title: # optional default will be site title
-        subtitle: 
-        #imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
-        #imageTitle: "<title of image as alt>" # optional
-        #imageWidth: 120 # custom size
-        #imageHeight: 120 # custom size
-        #buttons:
-         #   - name: Archive
-          #    url: "/archive"
-           # - name: Github
-            #  url: "https://github.com/"  
+    enabled: false
+    title: # optional default will be site title
+    subtitle:
+    #imageUrl: "https://cdn.jsdelivr.net/gh/xiang0805/blogimage@main/img/自我介紹.jpeg" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
+    #buttons:
+    #   - name: Archive
+    #    url: "/archive"
+    # - name: Github
+    #  url: "https://github.com/"
   sitemap:
     changefreq: daily
     filename: sitemap.xml
@@ -53,10 +51,7 @@ params:
   author: "王冠翔"
   contact: "guansiang.wang@gmail.com"
   feedlinks: true
-  copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
-
-  
 
 outputs:
   home:
