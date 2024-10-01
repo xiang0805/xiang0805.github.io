@@ -1,7 +1,7 @@
 baseURL: https://xiang0805.github.io/
 languageCode: zh-tw
 title: Peter的運動保健教室
-theme: "PaperMod"
+theme: "papermod"
 paginate: 6
 
 params:
