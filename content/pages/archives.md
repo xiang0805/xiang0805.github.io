@@ -3,17 +3,17 @@ date: 2023-03-29
 showtoc: true
 url: /pages/release-the-stress
 tags:
-- 主動休息
-- 呼吸
-- tag
+  - 主動休息
+  - 呼吸
+  - tag
 categoories:
-- blog
+  - blog
 title: 202403
 fileName: 202403
 categories:
-- category
-lastMod: 
+  - category
 ---
+
 我們在不斷地接受外在資訊的同時，也在不斷地汲取壓力進到我們的身體中，看到他人去旅遊、吃美食、好身材、驚人的運動表現，總會心生羨慕，而這一點一滴的小訊息就像滴水穿石般穿透了我們的心靈。
 尤其在社群媒體上滑到的是認識的人，累積的壓力會更大。
 心理學上，人容易產生比較的心理，尤其是跟自己關係越密切的人。
@@ -41,11 +41,11 @@ lastMod:
 
 沈浸在水中，關掉本體感覺、聽覺、嗅覺
 
-* 漂浮艙：浸泡在高濃度的鹽水中，讓身體像漂浮在死海，同時將所有感官關閉，如同進入一個黑洞，安靜到只剩下自己的心跳聲。
-https://crossing.cw.com.tw/article/14358
-https://orocor.co/products/52/floating
+- 漂浮艙：浸泡在高濃度的鹽水中，讓身體像漂浮在死海，同時將所有感官關閉，如同進入一個黑洞，安靜到只剩下自己的心跳聲。
+  https://crossing.cw.com.tw/article/14358
+  https://orocor.co/products/52/floating
 
-* 耳塞、眼罩：只需要兩個小道具就可以練習，關閉我們最常用的視覺與聽覺，試看看能否維持10分鐘不睡著！
+- 耳塞、眼罩：只需要兩個小道具就可以練習，關閉我們最常用的視覺與聽覺，試看看能否維持10分鐘不睡著！
 
 ### 3. 無聲無息，長吸長吐
 
@@ -55,9 +55,9 @@ https://orocor.co/products/52/floating
 
 ## 參考資料
 
-* Sensory deprivation chambers感覺剝奪艙，不僅可以清除運動後血液中積聚的乳酸（Morgan et al., 2013），還可以更快地將大腦轉變為積極休息和恢復的狀態（Ben-Soussan et al., 2013） 。
- by NASM-CES
-* ((65d5a09f-6b6c-49b0-974c-5930570d0377)) by 唐鳳15個關鍵詞 (highlights)
-* ((65d5a09f-3504-437c-800e-1bb4d4616982)) by 唐鳳：我所看待的自由與未來 (highlights)
-* ((66022704-4eec-4934-b43c-9efcc58fd435)) by 健身者、運動員呼吸訓練全書 (highlights)
-* ((65d5a094-16e1-4ff1-8155-412e404acfc6)) by 3.3秒的呼吸奧祕 (highlights)
+- Sensory deprivation chambers感覺剝奪艙，不僅可以清除運動後血液中積聚的乳酸（Morgan et al., 2013），還可以更快地將大腦轉變為積極休息和恢復的狀態（Ben-Soussan et al., 2013） 。
+  by NASM-CES
+- ((65d5a09f-6b6c-49b0-974c-5930570d0377)) by 唐鳳15個關鍵詞 (highlights)
+- ((65d5a09f-3504-437c-800e-1bb4d4616982)) by 唐鳳：我所看待的自由與未來 (highlights)
+- ((66022704-4eec-4934-b43c-9efcc58fd435)) by 健身者、運動員呼吸訓練全書 (highlights)
+- ((65d5a094-16e1-4ff1-8155-412e404acfc6)) by 3.3秒的呼吸奧祕 (highlights)
