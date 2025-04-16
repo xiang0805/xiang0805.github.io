@@ -12,10 +12,13 @@ params:
     enable: false
   homeInfoParams:
     Title: 哈囉,我是王冠翔教練
-    Content: >
-      - 目前是Workinlab健身工作室的策略長&體能教練，也有在長照中心指導樂齡班。    
-      - 喜歡閱讀、運動、走訪大自然。
-      - 使命-透過運動改善關節疼痛!
+    Content: |
+      一位專注於動作功能訓練的私人教練。  
+      我目前在台北內湖與大安區，提供一對一訓練與銀髮族小班課，  
+      陪伴學員重建動作控制、提升力量與穩定，減少生活與運動中的不適感。  
+
+      📚 喜歡閱讀、運動與走進自然，  
+      🎯 我的使命——用訓練，找回身體的主控權與自由。
   socialIcons: # optional
     - name: "facebook"
       url: "https://www.facebook.com/profile.php?id=100000716446411"
